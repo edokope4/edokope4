@@ -4,9 +4,12 @@
 - Nacido en Santiago de Chile en 1980.
 - Hincha de Universidad de Chile.
 - Bombero Pompe France Santiago.
+- Piloto de Drones - Operador RPA.
 - Prototipador, Programador Python, PHP, Java, ReactJS y Administrador de Sistemas Posix/Linux.
+- Aprendiz de Carpintero y Jardinero.
 - Aficionado al estudio de las Artes Marciales Japonesas.
-- Estudiante Raijin Dojo (Gekkan Chile) y Judo Eslabón Studio Santiago.
+- Estudiante Raijin Dojo (Gekkan Chile)
+- Estudiante Judo Eslabón Studio Santiago.
 
 Desayuno perfecto: Barros Luco con Tomate.
 
