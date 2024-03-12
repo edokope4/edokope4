@@ -9,7 +9,7 @@
 - Aprendiz de Carpintero y Jardinero.
 - Aficionado al estudio de las Artes Marciales Japonesas.
 - Estudiante Raijin Dojo (Gekkan Chile)
-- Estudiante Judo Eslabón Studio Santiago.
+- Estudiante Club de Judo Eslabón Santiago.
 
 Desayuno perfecto: Barros Luco con Tomate.
 
