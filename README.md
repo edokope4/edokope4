@@ -15,7 +15,9 @@ Desayuno perfecto: Barros Luco con Tomate.
 
 Donaciones BTC: **bc1qe8w30mk2h8w0n48zsy69md95hd0hjjkvch7zgw**
 
-![Logo](kp_logo.jpg)
+![Logo de Markdown](https://web.kope.cl/images/kp_logo.jpg)
+
+
 
 <!---
 edokope4/edokope4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
